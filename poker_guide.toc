@@ -1,0 +1,5 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {0}Introduction}{2}{}%
+\contentsline {section}{\numberline {1}Basic Rules of No-Limit Texas Hold-Em Poker}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Betting rounds and structure of the game}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Hand rankings and winning a hand}{2}{}%
